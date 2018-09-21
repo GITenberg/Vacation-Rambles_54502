@@ -1,0 +1,23 @@
+_repo: Vacation-Rambles_54502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+description: ''
+gutenberg_issued: '2017-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vacation Rambles
+url: http://www.gutenberg.org/ebooks/54502
